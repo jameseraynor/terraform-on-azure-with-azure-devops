@@ -4,4 +4,5 @@ resource "random_string" "myrandom" {
   upper = false 
   special = false
   number = false   
+  #changed
 }
